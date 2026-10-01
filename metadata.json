@@ -1,0 +1,6 @@
+{
+  "name": "صــف | منصة تحسين وتجهيز فيديوهات تيك توك",
+  "description": "منصة هندسية متخصصة في تحليل، ترميز، وتحسين سلاسة الفيديوهات (RIFE AI / 60 FPS) لتقليل فقدان الجودة وضغط تيك توك.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
